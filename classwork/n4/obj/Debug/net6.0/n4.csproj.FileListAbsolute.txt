@@ -1,0 +1,15 @@
+C:\Users\Kaka-PC\Desktop\CS_homeworks\classwork\n4\bin\Debug\net6.0\n4.exe
+C:\Users\Kaka-PC\Desktop\CS_homeworks\classwork\n4\bin\Debug\net6.0\n4.deps.json
+C:\Users\Kaka-PC\Desktop\CS_homeworks\classwork\n4\bin\Debug\net6.0\n4.runtimeconfig.json
+C:\Users\Kaka-PC\Desktop\CS_homeworks\classwork\n4\bin\Debug\net6.0\n4.dll
+C:\Users\Kaka-PC\Desktop\CS_homeworks\classwork\n4\bin\Debug\net6.0\n4.pdb
+C:\Users\Kaka-PC\Desktop\CS_homeworks\classwork\n4\obj\Debug\net6.0\n4.csproj.AssemblyReference.cache
+C:\Users\Kaka-PC\Desktop\CS_homeworks\classwork\n4\obj\Debug\net6.0\n4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaka-PC\Desktop\CS_homeworks\classwork\n4\obj\Debug\net6.0\n4.AssemblyInfoInputs.cache
+C:\Users\Kaka-PC\Desktop\CS_homeworks\classwork\n4\obj\Debug\net6.0\n4.AssemblyInfo.cs
+C:\Users\Kaka-PC\Desktop\CS_homeworks\classwork\n4\obj\Debug\net6.0\n4.csproj.CoreCompileInputs.cache
+C:\Users\Kaka-PC\Desktop\CS_homeworks\classwork\n4\obj\Debug\net6.0\n4.dll
+C:\Users\Kaka-PC\Desktop\CS_homeworks\classwork\n4\obj\Debug\net6.0\refint\n4.dll
+C:\Users\Kaka-PC\Desktop\CS_homeworks\classwork\n4\obj\Debug\net6.0\n4.pdb
+C:\Users\Kaka-PC\Desktop\CS_homeworks\classwork\n4\obj\Debug\net6.0\n4.genruntimeconfig.cache
+C:\Users\Kaka-PC\Desktop\CS_homeworks\classwork\n4\obj\Debug\net6.0\ref\n4.dll
