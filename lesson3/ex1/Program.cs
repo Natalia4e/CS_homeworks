@@ -17,7 +17,7 @@ int fifth_number =N % 10;
 if ( N > 9999 & N < 100000 )
 {
      Console.WriteLine($"Число пятизначное");
-    if (first_number == fifth_number & second_number == fourth_number)
+    if (first_number == fifth_number && second_number == fourth_number)
     {
         Console.WriteLine($"Число является палиндромом");
     }
