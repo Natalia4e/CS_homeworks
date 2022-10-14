@@ -14,7 +14,7 @@ int second_number = N % 10000 /1000;
 int fourth_number = N % 100 /10;
 int fifth_number =N % 10;
 
-if ( N > 9999 & N < 100000 )
+if ( N > 9999 && N < 100000 )
 {
      Console.WriteLine($"Число пятизначное");
     if (first_number == fifth_number && second_number == fourth_number)
