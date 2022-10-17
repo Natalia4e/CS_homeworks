@@ -1,0 +1,5 @@
+C:\Users\Kaka-PC\Desktop\CS_homeworks\obj\Debug\net6.0\CS_homeworks.csproj.AssemblyReference.cache
+C:\Users\Kaka-PC\Desktop\CS_homeworks\obj\Debug\net6.0\CS_homeworks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaka-PC\Desktop\CS_homeworks\obj\Debug\net6.0\CS_homeworks.AssemblyInfoInputs.cache
+C:\Users\Kaka-PC\Desktop\CS_homeworks\obj\Debug\net6.0\CS_homeworks.AssemblyInfo.cs
+C:\Users\Kaka-PC\Desktop\CS_homeworks\obj\Debug\net6.0\CS_homeworks.csproj.CoreCompileInputs.cache
