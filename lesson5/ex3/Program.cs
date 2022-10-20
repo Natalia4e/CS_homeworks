@@ -57,3 +57,17 @@ double MinNumber (double[] array)
 
  System.Console.WriteLine($" максимум = {max_num} ");
  System.Console.WriteLine($" минимум = {min_num} ");
+
+ double DiffNumber (double[] array)
+ {
+     double diff_num = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        diff_num = max_num - min_num;
+    }
+    return diff_num;
+
+ }
+
+ double diff_num = DiffNumber(myArray);
+ System.Console.WriteLine($" Разница = {diff_num} ");
