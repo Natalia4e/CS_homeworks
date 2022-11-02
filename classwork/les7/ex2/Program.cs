@@ -1,0 +1,30 @@
+﻿// Задача 1: Задайте двумерный массив размера m на n, каждый элемент в массиве находится по формуле: Aₘₙ = m+n. Выведите полученный массив на экран.
+int [,] CreateArray(int lenRows, int lenColumns)
+{
+    int[,] array = new int[lenRows, lenColumns];
+    for (int i = 0; i < array.GetLength(0); i++ )
+    {
+        for (int j = 0; j < array.GetLength(0); j++ )
+        {
+            array[i, j] = i + j;
+
+        }     
+    }
+    return array;
+}
+
+void PrintArray(int [,] array)
+{
+    for (int i = 0; i < array.GetLength(0); i++ )
+    {
+        for (int j = 0; j < array.GetLength(0); j++ )
+        {
+            Console.Write($"{array[i, j]}\t");
+        }
+        System.Console.WriteLine();
+    }
+
+}
+
+int [,] array = CreateArray(4,4);
+PrintArray(array);
